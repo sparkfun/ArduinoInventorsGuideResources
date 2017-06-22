@@ -1,7 +1,7 @@
 Resources for the SparkFun Arduino Inventor's Guide - published by No Starch Press
 ============================
 
-[![SparkFun Arduino Inventor's Guide](https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/ArduinoInventor%27sGuide_cover_0.png?itok=I_gTGU9B)
+![SparkFun Arduino Inventor's Guide](https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/ArduinoInventor%27sGuide_cover_0.png?itok=I_gTGU9B)
 
 The Arduino microcontroller makes it easy to learn about electronics, but it can be hard to know where to start. The 10 projects in this book will teach you to build, code, and invent with the super-smart Arduino and a handful of parts.
 
