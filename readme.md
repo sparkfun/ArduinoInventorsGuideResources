@@ -1,7 +1,10 @@
 Resources for the SparkFun Arduino Inventor's Guide - published by No Starch Press
 ============================
 
-![SparkFun Arduino Inventor's Guide](https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/ArduinoInventor%27sGuide_cover_0.png?itok=I_gTGU9B)
+[![SparkFun Arduino Inventor's Guide](https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/ArduinoInventor%27sGuide_cover_0.png?itok=I_gTGU9B)](https://www.sparkfun.com/products/14326)
+
+[The SparkFun Arduino Inventor's Guide
+ [BOK-14326] ](https://www.sparkfun.com/products/14326)
 
 The Arduino microcontroller makes it easy to learn about electronics, but it can be hard to know where to start. The 10 projects in this book will teach you to build, code, and invent with the super-smart Arduino and a handful of parts.
 
@@ -20,7 +23,7 @@ First, you’ll master the basics with a primer that explains how a circuit work
 
 With each project, you’ll learn real coding skills so you can tell your inventions what to do, like how to store temperature readings with variables, start a timer or spin a motor with functions, and make decisions using loops. You’ll even find tips and tricks to put your own twist on each gadget and take things further.
 
-Uses the Arduino Uno board or SparkFun RedBoard
+Uses any ATmega328-Based boards with the Arduino bootloader such as the Arduino Uno board or SparkFun RedBoard.
 
 Repository Contents
 -------------------
